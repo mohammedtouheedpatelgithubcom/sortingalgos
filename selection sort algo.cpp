@@ -1,14 +1,14 @@
 // C++ program for implementation of selection sort //worst case:O(n^2)
 #include <bits/stdc++.h> 
 using namespace std; 
-/*Function to Swap an array */
+
 void swap(int *xp, int *yp) 
 { 
 	int temp = *xp; 
 	*xp = *yp; 
 	*yp = temp; 
 } 
-/*Function to Sort an array */
+
 void selectionSort(int arr[], int n) 
 { 
 	int i, j, min_idx; 
