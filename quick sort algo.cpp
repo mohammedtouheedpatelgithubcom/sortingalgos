@@ -1,5 +1,4 @@
-/* 160119737098
-IT-2 SEM-3 DSA LAB EXTERNAL EXAM
+/* 
 Write a Program to implement Quick sort Technique.
 worst case O(n^2)
 best case O(nlogn)
